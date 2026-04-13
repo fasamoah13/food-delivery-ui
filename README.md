@@ -21,3 +21,13 @@ Home Screen
 Favorites
 Orders
 Cart
+
+What I Learned
+
+Importance of spacing and alignment
+Creating visual hierarchy
+Designing for mobile users
+Improving usability through layout
+
+Figma Design
+(https://www.figma.com/design/fP5XTTCq2S2yUAbgsQofvB/Food-App-UI?node-id=0-1&t=cgCFUVBSMMNichng-1)
